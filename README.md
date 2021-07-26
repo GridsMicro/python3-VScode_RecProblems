@@ -7,7 +7,7 @@ Python3-VScode Record problems and solutions
 - pip3 install pyaudio : error generated
 - brew install portaudio : Warning
 
-**แก้ไขด้วย**
+**แนวทางแก้ไข**
 
 - ติดตั้ง Xcode (ถ้ายังไม่เคยติดตั้ง) restart
 - เปิด terminal พิมพ์
