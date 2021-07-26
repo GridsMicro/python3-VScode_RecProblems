@@ -28,6 +28,8 @@ $ pip3 install pyaudio
 /usr/local/bin/python3
 ~~~
 
+_________________
+
 ## sh: mpg123: command not found
 
 - เปิด terminal พิมพ์
