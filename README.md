@@ -18,4 +18,12 @@ $ brew install portaudio
 $ pip3 install pyaudio
 ~~~
 
-**NOTE** : ในกรณีนี้ ผมติดตั้ง python3 ก่อนหน้าแล้วด้วยคำสั่ง brew install python3 ส่งผลให้ 
+**NOTE** : ในกรณีนี้ ผมติดตั้ง python3 ก่อนหน้าแล้วด้วยคำสั่ง brew install python3 และในกระบวนการนั้น path ได้รับเปลี่ยนแปลง
+
+~~~
+/usr/local/Cellar/python@3.9/3.9.6
+~~~
+เป็น
+~~~
+/usr/local/bin/python3
+~~~
