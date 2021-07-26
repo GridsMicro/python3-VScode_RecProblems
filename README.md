@@ -18,4 +18,4 @@ $ brew install portaudio
 $ pip3 install pyaudio
 ~~~
 
-**NOTE** : 
+**NOTE** : ในกรณีนี้ ผมติดตั้ง python3 ก่อนหน้าแล้วด้วยคำสั่ง brew install python3 ส่งผลให้ 
